@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=1000&color=1CF700&repeat=false&width=435&lines=Loading...;Fetching+Jojo...;Fetching+Last+fm+scrobbles...;Carga+completa!!!)](https://git.io/typing-svg)
-<br>22<br>CSIT Student
 
 <div align="left">
   <img src="https://art.ngfiles.com/comments/129000/iu_129688_8024736.gif" alt="JoJo GIF" width="200">
@@ -42,7 +41,7 @@ Stuffs I want to learn:
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cruxbolt&bg_color=000000)
 
 <div align="left">
-  <img src="https://pixeljoint.com/files/icons/full/oraora.gif" alt="JoJo GIF" width="400">
+  <img src="https://64.media.tumblr.com/39c06f0d2343a8c4b50c1e570939cd77/73868c1cd0a80983-77/s1280x1920/4c9d469300eb3ab3692ca0aa4742f676811c97db.gif" alt="JoJo GIF" width="400">
 </div>
 
 
