@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EB04F7&width=435&lines=Death+can+have+me+when+it+earns+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=1CF700&width=435&lines=Loading...;Fetching+Jojo...;Fetching+Last+fm+scrobbles...)](https://git.io/typing-svg)
 <br>22<br>CSIT Student
+
+<div align="left">
+  <img src="https://art.ngfiles.com/comments/129000/iu_129688_8024736.gif" alt="JoJo GIF" width="200">
+</div>
 
 Stuffs I know:
 <table>
@@ -36,6 +40,12 @@ Stuffs I want to learn:
 </table>
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cruxbolt&bg_color=000000)
+
+<div align="left">
+  <img src="https://pixeljoint.com/files/icons/full/oraora.gif" alt="JoJo GIF" width="400">
+</div>
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=biple&icon=0&color=0)](https://visitcount.itsvg.in)
