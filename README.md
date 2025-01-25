@@ -16,7 +16,7 @@ Stuffs I know:
 Stuffs I am learning:
 <table>
   <tr>
-    <td><img src="https://s4.ezgif.com/tmp/ezgif-4-d5c7eb1430.svg" width="40" height="40" alt="Tailwind CSS"></td>
+    <td><img src="https://img.icons8.com/?size=512&id=FnnFuAIw4e8j&format=png" width="40" height="40" alt="Tailwind CSS"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"></td>
