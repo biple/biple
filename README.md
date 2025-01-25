@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;I+am+Bipulranjan+Paudel)](https://git.io/typing-svg)
-22<br>CSIT Student
+<br>22<br>CSIT Student
 
 
 # 💻 Tech Stack:
