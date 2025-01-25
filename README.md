@@ -16,7 +16,7 @@ Stuffs I know:
 Stuffs I am learning:
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://www.svgrepo.com/show/333609/tailwind-css.svg" width="40" height="40" alt="Tailwind CSS"></td>
+    <td><img src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png" width="40" height="40" alt="Tailwind CSS"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"></td>
@@ -30,7 +30,7 @@ Stuffs I want to learn:
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"></td>
     <td><img src="https://img.icons8.com/ios-filled/344/wordpress.png" width="40" height="40" alt="WordPress"></td>
     <td><img src="https://img.icons8.com/ios-filled/344/jquery.png" width="40" height="40" alt="jQuery"></td>
-    <td><img src="https://img.icons8.com/external-flat-juicy-fish/344/external-seo-web-design-flat-flat-juicy-fish.png" width="40" height="40" alt="SEO"></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/2977/2977698.png" width="40" height="40" alt="SEO"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"></td>
   </tr>
 </table>
