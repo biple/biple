@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=1000&color=1CF700&repeat=false&width=435&lines=Loading...;Fetching+Jojo...;Fetching+Last+fm+scrobbles...;Carga+completa!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=1000&color=1CF700&repeat=true&width=435&lines=Loading...;Fetching+Jojo...;Fetching+Last+fm+scrobbles...;Carga+completa!!!)](https://git.io/typing-svg)
 
 <div align="left">
   <img src="https://art.ngfiles.com/comments/129000/iu_129688_8024736.gif" alt="JoJo GIF" width="200">
