@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello;I+am+Bipulranjan+Paudel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&multiline=true&width=435&lines=%E8%BF%91%E3%81%A5%E3%81%8B%E3%81%AA%E3%81%8D%E3%82%83;%E3%81%A6%E3%82%81%E3%83%BC%E3%82%92%E3%83%96%E3%83%81%E3%81%AE%E3%82%81%E3%81%9B%E3%81%AA%E3%81%84%E3%82%93%E3%81%A7%E3%81%AA)](https://git.io/typing-svg)
 <br>22<br>CSIT Student
 
 
