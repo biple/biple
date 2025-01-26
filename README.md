@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=1000&color=1CF700&repeat=true&width=435&lines=Loading...;Fetching+Jojo...;Fetching+Last+fm+scrobbles...;Carga+completa!!!)](https://git.io/typing-svg)
-
 <div align="left">
-  <img src="https://art.ngfiles.com/comments/129000/iu_129688_8024736.gif" alt="JoJo GIF" width="200">
+  <img src="https://i.pinimg.com/originals/03/f1/0c/03f10ce42d82b29ca86a99a36051f963.gif" alt="JoJo GIF" width="100">
 </div>
 
-Stuffs I know:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=00F715&width=435&lines=Greetings+everynyan+!+!+!+!)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="10" height="10" /><code>Crafts I Have Mastered:</code>
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML"></td>
@@ -16,7 +16,7 @@ Stuffs I know:
   </tr>
 </table>
 
-Stuffs I am learning:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Tiger%20Face.webp" alt="Tiger Face" width="10" height="10" /><code>Crafts I Am Endeavoring to Learn:</code>
 <table>
   <tr>
     <td><img src="https://img.icons8.com/?size=512&id=FnnFuAIw4e8j&format=png" width="40" height="40" alt="Tailwind CSS"></td>
@@ -27,7 +27,7 @@ Stuffs I am learning:
   </tr>
 </table>
 
-Stuffs I want to learn:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Crystal%20Ball.webp" alt="Crystal Ball" width="10" height="10" /><code>Crafts I Aspire to Grasp:</code>
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"></td>
@@ -38,13 +38,9 @@ Stuffs I want to learn:
   </tr>
 </table>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=9100F7FF&width=435&lines=Fetching+last.fm+scrobbles.+.+.+.)](https://git.io/typing-svg)
+
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cruxbolt&bg_color=000000)
-
-<div align="left">
-  <img src="https://64.media.tumblr.com/39c06f0d2343a8c4b50c1e570939cd77/73868c1cd0a80983-77/s1280x1920/4c9d469300eb3ab3692ca0aa4742f676811c97db.gif" alt="JoJo GIF" width="400">
-</div>
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=biple&icon=0&color=0)](https://visitcount.itsvg.in)
