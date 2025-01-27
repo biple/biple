@@ -38,10 +38,6 @@
   </tr>
 </table>
 
-<div align="left">
-  <img src="https://i.pinimg.com/originals/8d/56/71/8d5671e5980bbc71c61bd7f1f521d3e4.gif" alt="JoJo GIF" width="150">
-</div>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=9100F7FF&width=435&lines=Fetching+last.fm+scrobbles.+.+.+.)](https://git.io/typing-svg)
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cruxbolt&bg_color=000000)
