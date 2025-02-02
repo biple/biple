@@ -31,8 +31,8 @@
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"></td>
-    <td><img src="https://img.icons8.com/ios-filled/344/wordpress.png" width="40" height="40" alt="WordPress"></td>
-    <td><img src="https://img.icons8.com/ios-filled/344/jquery.png" width="40" height="40" alt="jQuery"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/512px-WordPress_blue_logo.svg.png" width="40" height="40" alt="WordPress"></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" width="40" height="40" alt="jQuery"></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/2977/2977698.png" width="40" height="40" alt="SEO"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"></td>
   </tr>
