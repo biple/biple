@@ -46,8 +46,5 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=FF0000&width=435&lines=Fetching+languages+report...)](https://git.io/typing-svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biple&langs_count=8)
 
 [![](https://visitcount.itsvg.in/api?id=biple&icon=0&color=0)](https://visitcount.itsvg.in)
