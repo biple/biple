@@ -42,7 +42,4 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=cruxbolt&bg_color=000000)
 
----
-
-
 [![](https://visitcount.itsvg.in/api?id=biple&icon=0&color=0)](https://visitcount.itsvg.in)
